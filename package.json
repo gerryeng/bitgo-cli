@@ -34,7 +34,7 @@
     "read": "1.0.5",
     "secrets.js": "0.1.8",
     "sjcl": "1.0.1",
-    "underscore.string": "2.4.0"
+    "underscore.string": "3.3.5"
   },
   "preferGlobal": true
 }
